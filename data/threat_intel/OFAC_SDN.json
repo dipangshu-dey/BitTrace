@@ -1,0 +1,18 @@
+[
+  {
+    "address": "149w62rY42aZBox8fGcmqNsXUzSStKeq8C",
+    "entity_label": "Ali Khorashadizadeh - OFAC SDN, designated 2018-11-28 for converting SamSam ransomware BTC proceeds to Iranian rial"
+  },
+  {
+    "address": "1AjZPMsnmpdK2Rv9KQNfMurTXinscVro9V",
+    "entity_label": "Mohammad Ghorbaniyan - OFAC SDN, designated 2018-11-28 alongside Khorashadizadeh (same SamSam scheme)"
+  },
+  {
+    "address": "12QtD5BFwRsdNsAZY76UVE1xyCGNTojH9h",
+    "entity_label": "OFAC SDN digital currency address (XBT), extracted from Treasury sdn_advanced.xml"
+  },
+  {
+    "address": "1Kuf2Rd8mDyAViwBozGTNYnvWL8uYFrkVo",
+    "entity_label": "OFAC SDN digital currency address (XBT), extracted from Treasury sdn_advanced.xml"
+  }
+]

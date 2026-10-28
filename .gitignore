@@ -1,0 +1,32 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local databases and investigation data
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated reports
+reports/*
+
+# Keep the reports folder in GitHub
+!reports/.gitkeep
+
+# IDE and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini

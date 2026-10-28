@@ -1,0 +1,9 @@
+streamlit>=1.32
+requests>=2.31
+networkx>=3.2
+pandas>=2.1
+plotly>=5.18
+matplotlib>=3.8
+reportlab>=4.0
+python-louvain>=0.16
+numpy>=1.26

@@ -1,0 +1,20 @@
+[theme]
+base = "dark"
+backgroundColor = "#0D1117"
+secondaryBackgroundColor = "#151B23"
+primaryColor = "#3B9EBF"
+textColor = "#E6EDF3"
+font = "sans serif"
+
+[client]
+# Hides the Deploy button and developer menu entries.
+toolbarMode = "minimal"
+
+[browser]
+# No usage telemetry, no outbound calls from the dashboard.
+gatherUsageStats = false
+
+[server]
+# Faster page switching. Set to "auto" while you are editing code and
+# want the app to reload on save.
+fileWatcherType = "none"
