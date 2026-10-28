@@ -110,37 +110,37 @@ The following screenshots show the main modules of the BitTrace application.
 
 The Home page introduces BitTrace and presents its main investigation objectives and navigation options.
 
-![BitTrace Home Page](bittrace/docs/screenshots/01-home.png.png)
+![BitTrace Home Page](bittrace/docs/screenshots/01-home.png)
 
 ### Investigation Workspace
 
 The Investigation page allows users to enter a Bitcoin address, configure the investigation depth, and start an investigation.
 
-![Investigation Workspace](bittrace/docs/screenshots/02-investigation.png.png)
+![Investigation Workspace](bittrace/docs/screenshots/02-investigation.png)
 
 ### Graph Explorer
 
 The Graph Explorer visualises address relationships and transaction flows within an investigation.
 
-![Graph Explorer](bittrace/docs/screenshots/03-graph-explorer.png.png)
+![Graph Explorer](bittrace/docs/screenshots/03-graph-explorer.png)
 
 ### Transaction Timeline
 
 The Timeline page displays transaction activity over time, including available incoming, outgoing, and related transaction information.
 
-![Transaction Timeline](bittrace/docs/screenshots/04-timeline.png.png)
+![Transaction Timeline](bittrace/docs/screenshots/04-timeline.png)
 
 ### Statistics Dashboard
 
 The Statistics page displays aggregate investigation information, risk distributions, and detected transaction patterns.
 
-![Statistics Dashboard](bittrace/docs/screenshots/05-statistics.png.png)
+![Statistics Dashboard](bittrace/docs/screenshots/05-statistics.png)
 
 ### AI Investigation Assistant
 
 The AI Assistant provides an interface for asking questions about recorded investigation findings using the configured local AI model.
 
-![AI Investigation Assistant](bittrace/docs/screenshots/06-ai-assistant.png.png)
+![AI Investigation Assistant](bittrace/docs/screenshots/06-ai-assistant.png)
 
 ## Project Structure
 
